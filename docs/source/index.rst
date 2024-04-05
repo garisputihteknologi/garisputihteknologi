@@ -13,8 +13,8 @@ Melalui media daring ini, penulis berharap dapat menjadi sebaik-baiknya manusia,
 
 Begitu sepenggal prolog dari kami, penulis. Untuk kalian yang tidak pernah berhenti bergerak maju, terima kasih telah mau berkembang, paling tidak untuk diri kalian sendiri.
 
-Tokyo, 1 April 2024
-*Tertanda,* 
+*Tokyo, 1 April 2024*
+*Tertanda,*
 
 
-***Garis Putih Teknologi***
+**Garis Putih Teknologi**
