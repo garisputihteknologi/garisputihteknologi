@@ -14,7 +14,7 @@ Melalui media daring ini, penulis berharap dapat menjadi sebaik-baiknya manusia,
 Begitu sepenggal prolog dari kami, penulis.
 
 .. note::
-			*Untuk kalian yang tidak pernah berhenti bergerak maju, **terima kasih telah mau berkembang**. Paling tidak untuk diri kalian sendiri.*
+			Untuk kalian yang tidak pernah berhenti bergerak maju, **terima kasih telah mau berkembang**. Paling tidak untuk diri kalian sendiri.
 
 *Tokyo, 1 April 2024*
 
