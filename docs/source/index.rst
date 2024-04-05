@@ -11,7 +11,11 @@ Pertanyaan yang terkesan mudah untuk dijawab, namun entah mengapa menjadi titik 
 
 Melalui media daring ini, penulis berharap dapat menjadi sebaik-baiknya manusia, yang bermanfaat bagi orang lain dan berharap bisa membumikan teknologi, terkhusus untuk masyarakat Indonesia. Berharap agar semua masyarakat Indonesia dapat pula merasakan memijak ilmu langit. Semoga kelak semakin banyak putra-putri Indonesia yang bisa menggapai mimpinya dan menjadi *habibie-habibie* baru di masa depan. 
 
-Begitu sepenggal prolog dari kami, penulis. Untuk kalian yang tidak pernah berhenti bergerak maju, terima kasih telah mau berkembang, paling tidak untuk diri kalian sendiri.
+Begitu sepenggal prolog dari kami, penulis.
+
+.. note::
+			Untuk kalian yang tidak pernah berhenti bergerak maju, **terima kasih telah mau berkembang**. Paling tidak untuk diri kalian sendiri.
+			**Terima kasih**
 
 *Tokyo, 1 April 2024*
 
