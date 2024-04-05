@@ -3,7 +3,7 @@ Prolog - Untuk yang tidak Pernah Berhenti Bergerak
 Bismillahirrohmannirrohim.
 
 .. note::
-Saya masih kelas 11 SMA, kalau saya mau belajar ini, harus mulai dari mana?
+			Saya masih kelas 11 SMA, kalau saya mau belajar ini, harus mulai dari mana?
 
 Teringat pertanyaan ini dilontarkan oleh salah satu peserta ketika penulis mengisi sebuah acara di forum teknologi yang diadakan oleh salah satu institusi di Indonesia.
 
@@ -13,8 +13,8 @@ Melalui media daring ini, penulis berharap dapat menjadi sebaik-baiknya manusia,
 
 Begitu sepenggal prolog dari kami, penulis. Untuk kalian yang tidak pernah berhenti bergerak maju, terima kasih telah mau berkembang, paling tidak untuk diri kalian sendiri.
 
-*Tokyo, 1 April 2024*
-*Tertanda,*
+*Tokyo, 1 April 2024*.
+*Tertanda,*.
 
 
 **Garis Putih Teknologi**
