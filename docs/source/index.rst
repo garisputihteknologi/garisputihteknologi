@@ -1,5 +1,7 @@
-Prolog - Untuk yang tidak Pernah Berhenti Bergerak Maju
-=======================================================
+Prolog
+======
+
+**Untuk yang tidak Pernah Berhenti Bergerak Maju**
 Bismillahirrohmannirrohim.
 
 .. note::
