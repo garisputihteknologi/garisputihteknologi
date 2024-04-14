@@ -2,7 +2,7 @@ Prolog - Untuk yang tidak Pernah Berhenti Bergerak Maju
 =======================================================
 Bismillahirrohmannirrohim.
 
-.. note::
+.. Catatan::
 			*Saya masih kelas 11 SMA, kalau saya mau belajar ini, harus mulai dari mana?*
 
 Teringat pertanyaan ini dilontarkan oleh salah satu peserta ketika penulis mengisi sebuah acara di forum teknologi yang diadakan oleh salah satu institusi di Indonesia.
@@ -13,7 +13,7 @@ Melalui media daring ini, penulis berharap dapat menjadi sebaik-baiknya manusia,
 
 Begitu sepenggal prolog dari kami, penulis.
 
-.. note::
+.. Akhir Kata::
 			Untuk kalian yang tidak pernah berhenti bergerak maju, **terima kasih telah mau berkembang**. Paling tidak untuk diri kalian sendiri.
 
 *Tokyo, 1 April 2024*
