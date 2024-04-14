@@ -1,3 +1,12 @@
+
+.. toctree::
+   :caption: Pengantar
+   :maxdepth: 2
+   :hidden:
+
+   Prolog
+   Daftar Isi
+
 Prolog
 ======
 
@@ -26,12 +35,3 @@ Begitu sepenggal prolog dari kami, penulis.
 
 **Garis Putih Teknologi**
 
-.. Hidden TOCs
-
-.. toctree::
-   :caption: Pengantar
-   :maxdepth: 2
-   :hidden:
-
-   Prolog
-   Daftar Isi
