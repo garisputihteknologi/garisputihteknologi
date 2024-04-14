@@ -1,2 +1,2 @@
-S	istem Telekomunikasi 5G
+Sistem Telekomunikasi 5G
 ========================
