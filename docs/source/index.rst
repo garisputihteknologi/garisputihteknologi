@@ -1,18 +1,13 @@
+Prolog
+======
+
+**Untuk yang tidak Pernah Berhenti Bergerak Maju**
+
 
 .. toctree::
    
    Prolog
    Daftar Isi
-
-   
-   :caption: Pengantar
-   :maxdepth: 2
-   :hidden:
-
-Prolog
-======
-
-**Untuk yang tidak Pernah Berhenti Bergerak Maju**
 
 Bismillahirrohmannirrohim.
 
