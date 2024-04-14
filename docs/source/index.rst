@@ -1,11 +1,13 @@
 
 .. toctree::
+   
+   Prolog
+   Daftar Isi
+
+   
    :caption: Pengantar
    :maxdepth: 2
    :hidden:
-
-   Prolog
-   Daftar Isi
 
 Prolog
 ======
