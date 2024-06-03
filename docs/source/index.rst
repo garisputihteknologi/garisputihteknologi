@@ -25,9 +25,3 @@ Begitu sepenggal prolog dari kami, penulis.
 
 
 **Garis Putih Teknologi**
-
-Daftar Isi
-----------
-
-.. toctree::
-   daftar_isi
