@@ -30,5 +30,4 @@ Daftar Isi
 ----------
 
 .. toctree::
-   daftar_isi
 
