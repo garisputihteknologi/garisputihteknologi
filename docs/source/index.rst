@@ -3,7 +3,6 @@ Daftar Isi
 
 .. toctree::
    daftar_isi
-   arsitektur5G
 
 Prolog
 ======
