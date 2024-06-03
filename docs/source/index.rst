@@ -6,8 +6,7 @@ Prolog
 
 .. toctree::
    
-   Prolog
-   Daftar Isi
+   daftar_isi
 
 Bismillahirrohmannirrohim.
 
