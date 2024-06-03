@@ -17,9 +17,3 @@ Pada sistem telekomunikasi 5G, ada tiga komponen pembentuk yang perlu GPT-ID pah
 
 .. class:: center
   Gambar 1. Arsitektur Sistem Telekomunikasi 5G
-
-Perangkat Pengguna (User Equipment - UE)
-
-Perangkat Radio (Radio Access Network - RAN)
-
-Perangkat Jaringan Pusat (Core Network - 5GC)
