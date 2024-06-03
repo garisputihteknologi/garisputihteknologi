@@ -10,8 +10,8 @@ Selayang Pandang Sistem 5G
 --------------------------
 Pada sistem telekomunikasi 5G, ada tiga komponen pembentuk yang perlu GPT-ID pahami, perangkat pengguna atau yang bisa disebut sebagai *User Equipment* (UE), perangkat radio atau *Radio Access Network* (RAN), dan perangkat manajemen jaringan atau *Core Network* (CN). Ketiga komponen ini memiliki fungsinya masing-masing dan menjadi komponen utama dalam membentuk satu kesatuan arsitektur sistem telekomunikasi 5G. Secara garis besar arsitektur sistem 5G tergambar pada Gambar 1 dibawah ini.
 
+**Gambar 1. Arsitektur Sistem Telekomunikasi 5G**
 .. image:: gambar/1_Arsitektur_5G.png
   :width: 800
   :alt: Gambar 1. Arsitektur Sistem Telekomunikasi 5G
   :align: center
-  **Gambar 1. Arsitektur Sistem Telekomunikasi 5G**
