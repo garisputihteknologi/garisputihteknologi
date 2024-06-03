@@ -1,11 +1,16 @@
 Tentang Garis Putih Teknologi
 -----------------------------
 
-***Menghapus Batas Aksesibilitas*
+**Menghapus Batas Aksesibilitas**
 
 *Selamat datang di catatan teknis Garis Putih Teknologi,*
 
-Garis Putih Teknologi adalah organisasi yang memiliki visi untuk mendemokratisasi dan mendiseminasi pengetahuan terkait sistem telekomunikasi 5G di Indonesia. Catatan teknis ini dapat dipergunakan pembaca untuk dapat mengetahui lebih jauh bagaimana perkembangan sistem telekomunikasi 5G mulai dari teknologi hingga ekosistemnya. Silahkan dibaca, dipergunakan, dan dimanfaatkan sebaik-baiknya dengan tetap mengedepankan etik dan norma-norma ilmu pengetahuan serta kaidah penelitian yang baik benar. Sertakan referensi catatan teknis ini jika rekan-rekan gpt-id mendapatkan *insight* melalui website catatan teknis ini.
+Garis Putih Teknologi adalah organisasi yang memiliki visi untuk mendemokratisasi dan mendiseminasi pengetahuan terkait sistem telekomunikasi 5G di Indonesia. Catatan teknis ini dapat dipergunakan pembaca untuk dapat mengetahui lebih jauh bagaimana perkembangan sistem telekomunikasi 5G mulai dari teknologi hingga ekosistemnya.
+
+**Silahkan dibaca, dipergunakan, dan dimanfaatkan sebaik-baiknya dengan tetap mengedepankan etik dan norma-norma ilmu pengetahuan serta kaidah penelitian yang baik benar.**
+
+.. note::
+			Kami sangat menghargai jika GPT-ID mengikutsertakan catatan teknis ini sebagai referensi ke dalam karya tulis ilmiah, makalah, personal blog, maupun karya lain GPT-ID. Dengan menyertakan website catatan teknis ini sebagai referensi, GPT-ID juga turut berkontribusi menyebarluaskan dan mengakselerasi penetrasi pengetahuan yang telah GPT-ID dapatkan kepada pembaca lain. Untuk itu, kami ucapkan Terima Kasih.
 
 Prolog
 ======
