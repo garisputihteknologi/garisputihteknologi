@@ -3,11 +3,6 @@ Prolog
 
 **Untuk yang tidak Pernah Berhenti Bergerak Maju**
 
-
-.. toctree::
-   index
-   daftar_isi
-
 Bismillahirrohmannirrohim.
 
 .. note::
@@ -30,4 +25,8 @@ Begitu sepenggal prolog dari kami, penulis.
 
 
 **Garis Putih Teknologi**
+
+.. toctree::
+   index
+   daftar_isi
 
