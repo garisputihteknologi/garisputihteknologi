@@ -25,3 +25,5 @@ Begitu sepenggal prolog dari kami, penulis.
 
 
 **Garis Putih Teknologi**
+
+:doc:`usage`
