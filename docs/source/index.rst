@@ -30,4 +30,4 @@ Daftar Isi
 ----------
 
 .. toctree::
-   arsitektur5G
+   daftar_isi
