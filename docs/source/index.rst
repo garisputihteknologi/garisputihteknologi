@@ -40,7 +40,7 @@ Garis Putih Teknologi adalah entitas yang dibangun untuk mendemokratisasi dan me
 
 **Silahkan pergunakan dan manfaatkan catatan teknis ini dengan sebaik-baiknya dan tetap mengedepankan etika dan norma-norma ilmu pengetahuan serta kaidah penelitian yang baik benar.**
 
-*Jika ada yang ingin bersilaturahmi, ketuk kami di garisputihteknologi@gmail.com*
+*Ketuk kami di garisputihteknologi@gmail.com*
 
 .. note::
 			Jika hasil dokumentasi dan catatan teknis ini bermanfaat bagi GPT-ID, kami sangat menghargai jika GPT-ID turut **mengikutsertakan catatan teknis ini sebagai referensi** ke dalam karya tulis ilmiah, makalah, personal blog, maupun karya lain yg GPT-ID ciptakan. Dengan menyertakan situs jejaring catatan teknis ini sebagai referensi, GPT-ID juga turut berkontribusi **menyebarluaskan dan mengakselerasi** penetrasi pengetahuan yang telah GPT-ID dapatkan kepada pembaca lain. *Oleh karena itu, atas kontribusinya, penulis sampaikan Terima Kasih.*
