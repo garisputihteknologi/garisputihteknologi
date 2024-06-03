@@ -5,7 +5,7 @@ Prolog
 
 
 .. toctree::
-   
+   index
    daftar_isi
 
 Bismillahirrohmannirrohim.
