@@ -1,3 +1,12 @@
+Tentang Garis Putih Teknologi
+-----------------------------
+
+***Menghapus Batas Aksesibilitas*
+
+*Selamat datang di catatan teknis Garis Putih Teknologi,*
+
+Garis Putih Teknologi adalah organisasi yang memiliki visi untuk mendemokratisasi dan mendiseminasi pengetahuan terkait sistem telekomunikasi 5G di Indonesia. Catatan teknis ini dapat dipergunakan pembaca untuk dapat mengetahui lebih jauh bagaimana perkembangan sistem telekomunikasi 5G mulai dari teknologi hingga ekosistemnya. Silahkan dibaca, dipergunakan, dan dimanfaatkan sebaik-baiknya dengan tetap mengedepankan etik dan norma-norma ilmu pengetahuan serta kaidah penelitian yang baik benar. Sertakan referensi catatan teknis ini jika rekan-rekan gpt-id mendapatkan *insight* melalui website catatan teknis ini.
+
 Prolog
 ======
 
@@ -12,7 +21,7 @@ Teringat pertanyaan ini dilontarkan oleh salah satu peserta ketika penulis mengi
 
 Pertanyaan yang terkesan mudah untuk dijawab, namun entah mengapa menjadi titik hitam di hati penulis yang penulis rasa perlu dicarikan penawarnya. Penulis merasa itu bukan hanya sebuah pertanyaan, tapi juga tantangan yang perlu dijawab oleh teknokrat ibu pertiwi, bagaimana mendemokratisasi teknologi, mengkomunikasikan, dan mendiseminasikan pengetahuan ke semua lapisan masyarakat sehingga penetrasi pengetahuan dan teknologi semakin terakselerasi dan terserap dengan baik. Kecakapan berkomunikasi dalam mentranslasi ilmu langit pun juga menjadi tantangan yang sulit, sesulit meluruskan kabel pelantang telinga yang sudah kadung masuk ke dalam kantung celana.
 
-Melalui media daring ini, penulis berharap dapat menjadi sebaik-baiknya manusia, yang bermanfaat bagi orang lain dan berharap bisa membumikan teknologi, terkhusus untuk masyarakat Indonesia. Berharap agar semua masyarakat Indonesia dapat pula merasakan memijak ilmu langit. Semoga kelak semakin banyak putra-putri Indonesia yang bisa menggapai mimpinya dan menjadi *habibie-habibie* baru di masa depan. 
+Melalui media daring ini, penulis berharap dapat menjadi sebaik-baiknya manusia, yang bermanfaat bagi orang lain dan berharap bisa membumikan teknologi, terkhusus untuk masyarakat Indonesia. Berharap agar semua masyarakat Indonesia dapat pula merasakan memijak ilmu langit. Semoga kelak semakin banyak putra-putri Indonesia yang bisa menggapai mimpinya dan menjadi *Habibie-Habibie* baru di masa depan. 
 
 Begitu sepenggal prolog dari kami, penulis.
 
@@ -25,6 +34,8 @@ Begitu sepenggal prolog dari kami, penulis.
 
 
 **Garis Putih Teknologi**
+
+*Menghapus Batas Aksesibilitas*
 
 Daftar Isi
 ----------
