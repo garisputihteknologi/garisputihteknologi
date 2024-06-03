@@ -26,7 +26,9 @@ Begitu sepenggal prolog dari kami, penulis.
 
 **Garis Putih Teknologi**
 
+Daftar Isi
+----------
+
 .. toctree::
-   index
    daftar_isi
 
