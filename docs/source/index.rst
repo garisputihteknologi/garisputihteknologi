@@ -1,3 +1,10 @@
+Daftar Isi
+----------
+
+.. toctree::
+   daftar_isi
+   arsitektur5G
+
 Prolog
 ======
 
@@ -25,5 +32,3 @@ Begitu sepenggal prolog dari kami, penulis.
 
 
 **Garis Putih Teknologi**
-
-:doc:`daftar_isi`
