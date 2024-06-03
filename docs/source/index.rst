@@ -1,17 +1,3 @@
-Tentang Garis Putih Teknologi
------------------------------
-
-**Menghapus Batas Aksesibilitas**
-
-*Selamat datang di catatan teknis Garis Putih Teknologi,*
-
-Garis Putih Teknologi adalah organisasi yang memiliki visi untuk mendemokratisasi dan mendiseminasi pengetahuan terkait sistem telekomunikasi 5G di Indonesia. Catatan teknis ini dapat dipergunakan pembaca untuk dapat mengetahui lebih jauh bagaimana perkembangan sistem telekomunikasi 5G mulai dari teknologi hingga ekosistemnya.
-
-**Silahkan dibaca, dipergunakan, dan dimanfaatkan sebaik-baiknya dengan tetap mengedepankan etika dan norma-norma ilmu pengetahuan serta kaidah penelitian yang baik benar.**
-
-.. note::
-			Kami sangat menghargai jika GPT-ID **mengikutsertakan catatan teknis ini sebagai referensi** ke dalam karya tulis ilmiah, makalah, personal blog, maupun karya lain GPT-ID. Dengan menyertakan website catatan teknis ini sebagai referensi, GPT-ID juga turut berkontribusi **menyebarluaskan dan mengakselerasi** penetrasi pengetahuan yang telah GPT-ID dapatkan kepada pembaca lain. *Untuk itu, kami ucapkan Terima Kasih.*
-
 Prolog
 ======
 
@@ -41,6 +27,23 @@ Begitu sepenggal prolog dari kami, penulis.
 **Garis Putih Teknologi**
 
 *Menghapus Batas Aksesibilitas*
+
+
+Tentang Garis Putih Teknologi
+-----------------------------
+
+**Menghapus Batas Aksesibilitas**
+
+*Selamat datang di catatan teknis Garis Putih Teknologi,*
+
+Garis Putih Teknologi adalah entitas yang dibangun untuk mendemokratisasi dan mendiseminasi pengetahuan terkait sistem telekomunikasi 5G di Indonesia. Catatan teknis ini dapat dipergunakan pembaca untuk dapat mengetahui lebih jauh bagaimana perkembangan sistem telekomunikasi 5G, mulai dari teknologi, ekosistem, hingga arah potensi riset dan penelitian di area ini.
+
+**Silahkan pergunakan dan manfaatkan catatan teknis ini dengan sebaik-baiknya dan tetap mengedepankan etika dan norma-norma ilmu pengetahuan serta kaidah penelitian yang baik benar.**
+
+*Jika ada yang ingin bersilaturahmi, ketuk kami di garisputihteknologi@gmail.com*
+
+.. note::
+			Jika hasil dokumentasi dan catatan teknis ini bermanfaat bagi GPT-ID, kami sangat menghargai jika GPT-ID turut **mengikutsertakan catatan teknis ini sebagai referensi** ke dalam karya tulis ilmiah, makalah, personal blog, maupun karya lain yg GPT-ID ciptakan. Dengan menyertakan situs jejaring catatan teknis ini sebagai referensi, GPT-ID juga turut berkontribusi **menyebarluaskan dan mengakselerasi** penetrasi pengetahuan yang telah GPT-ID dapatkan kepada pembaca lain. *Oleh karena itu, atas kontribusinya, penulis sampaikan Terima Kasih.*
 
 Daftar Isi
 ----------
