@@ -14,6 +14,4 @@ Pada sistem telekomunikasi 5G, ada tiga komponen pembentuk yang perlu GPT-ID pah
   :width: 800
   :alt: Gambar 1. Arsitektur Sistem Telekomunikasi 5G
   :align: center
-
-.. class:: center
-  Gambar 1. Arsitektur Sistem Telekomunikasi 5G
+  **Gambar 1. Arsitektur Sistem Telekomunikasi 5G**
