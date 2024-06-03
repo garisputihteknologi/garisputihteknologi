@@ -26,4 +26,4 @@ Begitu sepenggal prolog dari kami, penulis.
 
 **Garis Putih Teknologi**
 
-:doc:`usage`
+:doc:`daftar_isi`
