@@ -2,10 +2,7 @@
 =======================================
 
 Perangkat Pengguna (User Equipment - UE)
-----------------------------------------
 
 Perangkat Radio (Radio Access Network - RAN)
---------------------------------------------
 
-Perangkat Jaringan Pusat (Core Network - 5GCN)
-----------------------------------------------
+Perangkat Jaringan Pusat (Core Network - 5GC)
