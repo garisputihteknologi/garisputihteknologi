@@ -1,5 +1,5 @@
-Prolog
-======
+0. Prolog
+==========
 
 **Untuk yang tidak Pernah Berhenti Bergerak Maju**
 
@@ -25,8 +25,8 @@ Begitu sepenggal prolog dari kami, penulis.
 
 *Menghapus Batas Aksesibilitas*
 
-Tentang Garis Putih Teknologi
------------------------------
+0. 1. Tentang Garis Putih Teknologi
+------------------------------------
 
 **Menghapus Batas Aksesibilitas**
 
@@ -42,7 +42,8 @@ Garis Putih Teknologi adalah entitas yang dibangun untuk mendemokratisasi dan me
 .. note::
 			Jika hasil dokumentasi dan catatan teknis ini bermanfaat bagi GPT-ID, kami sangat menghargai jika GPT-ID turut **mengikutsertakan catatan teknis ini sebagai referensi** ke dalam karya tulis ilmiah, makalah, personal blog, maupun karya lain yg GPT-ID ciptakan. Dengan menyertakan situs jejaring catatan teknis ini sebagai referensi, GPT-ID juga turut berkontribusi **menyebarluaskan dan mengakselerasi** penetrasi pengetahuan yang telah GPT-ID dapatkan kepada pembaca lain. *Oleh karena itu, atas kontribusinya, penulis sampaikan Terima Kasih.*
 
-Daftar Isi
-----------
+0. 2. Daftar Isi
+------------------
 .. toctree::
+   index
    arsitektur5G
