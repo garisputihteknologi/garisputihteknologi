@@ -46,4 +46,3 @@ Garis Putih Teknologi adalah entitas yang dibangun untuk mendemokratisasi dan me
 ------------------
 .. toctree::
    index
-   arsitektur5G
