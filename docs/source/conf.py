@@ -27,6 +27,9 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
+def setup(app):
+   app.add_css_file("stylesheet.css")
+
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
