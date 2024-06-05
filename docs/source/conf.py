@@ -26,6 +26,15 @@ intersphinx_mapping = {
 intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
+html_sidebars = {
+    "**": [
+        "localtoc.html",
+        "ethicalads.html",  # Put the ad below the navigation but above previous/next
+        "relations.html",
+        "sourcelink.html",
+        "searchbox.html",
+    ]
+}
 
 def setup(app):
    app.add_css_file("stylesheet.css")
