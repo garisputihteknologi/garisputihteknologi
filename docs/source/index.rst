@@ -1,5 +1,5 @@
 .. image:: gambar/gpt_logo_2-removebg-preview.png
-  :width: 300
+  :width: 200
   :alt: Gambar 1. Arsitektur Sistem Telekomunikasi 5G.
   :align: center
 
